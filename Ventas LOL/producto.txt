@@ -1,0 +1,10 @@
+p001,Helado Vainilla,Normal,40,1800
+p002,Helado Vainilla,Grande,30,1900
+p003,Helado Fresa,Normal,50,1850
+p004,Helado Fresa,Grande,35,2000
+p005,Helado Chocolate,Normal,45,1800
+p006,Helado Chocolate,Grande,30,1900
+p007,Helado Lucuma,Normal,40,1700
+p008,Helado Lucuma,Grande,30,1900
+p009,Helado Maracuya,Normal,50,1700
+p010,Helado Maracuya,Grande,35,1900
